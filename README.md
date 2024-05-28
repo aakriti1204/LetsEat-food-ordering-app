@@ -1,1 +1,1 @@
-# LetsEat-food-ordering-app
+# LetsEat-food-ordering-app is a Enterprise-Level Food Ordering Platform.
